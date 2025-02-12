@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking-notes-2025/README.md",
+                "file": "Hacking-notes-2025/PicoCTF/General Skills/01_Lets Warm Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01_Lets Warm Up"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Lest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking-notes-2025/README.md",
+                "file": "Hacking-notes-2025/PicoCTF/General Skills/Lets Warm Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de README"
+              "title": "Enlaces entrantes de Lets Warm Up"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking-notes-2025/README.md",
+                "file": "Hacking-notes-2025/PicoCTF/General Skills/Lets Warm Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de README"
+              "title": "Enlaces salientes de Lets Warm Up"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking-notes-2025/README.md",
+                "file": "Hacking-notes-2025/PicoCTF/General Skills/Lets Warm Up.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de README"
+              "title": "Esquema de Lets Warm Up"
             }
           }
         ]
@@ -170,6 +170,25 @@
   },
   "active": "0e5b53fbf34588ef",
   "lastOpenFiles": [
-    "Hacking-notes-2025/PicoCTF/General Skills/Lets Warm Up.md"
+    "Hacking-notes-2025/PicoCTF/General Skills/03_Warmed Up.md",
+    "Hacking-notes-2025/PicoCTF/General Skills/02_2Warm.md",
+    "Hacking-notes-2025/PicoCTF/General Skills/01_Lets Warm Up.md",
+    "Hacking-notes-2025/PicoCTF/General Skills/04_Bases.md",
+    "Hacking-notes-2025/PicoCTF/General Skills/05_First Grep.md",
+    "Hacking-notes-2025/PicoCTF/General Skills/06_Obedient Cat.md",
+    "Hacking-notes-2025/PicoCTF/General Skills/10_Nice netcat....md",
+    "Hacking-notes-2025/PicoCTF/General Skills/09_Glitch Cat.md",
+    "Hacking-notes-2025/PicoCTF/General Skills/08_plumbing.md",
+    "Hacking-notes-2025/PicoCTF/General Skills/07_what's a net cat.md",
+    "Hacking-notes-2025/PicoCTF/General Skills/Pasted image 20250212131236.png",
+    "Hacking-notes-2025/PicoCTF/General Skills/Pasted image 20250212121711.png",
+    "Hacking-notes-2025/Bienvenido.md",
+    "Hacking-notes-2025/PicoCTF/General Skills/Pasted image 20250210194256.png",
+    "Hacking-notes-2025/PicoCTF/General Skills/Pasted image 20250211220242.png",
+    "Hacking-notes-2025/PicoCTF/General Skills/Pasted image 20250211221901.png",
+    "Hacking-notes-2025/PicoCTF/General Skills/Pasted image 20250211214738.png",
+    "Hacking-notes-2025/PicoCTF/General Skills/Pasted image 20250211201518.png",
+    "Hacking-notes-2025/PicoCTF/General Skills/Pasted image 20250211200524.png",
+    "Hacking-notes-2025/README.md"
   ]
 }
