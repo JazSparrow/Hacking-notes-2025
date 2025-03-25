@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4438c7a8c84d0917",
+        "id": "5a157f6d2f50081a",
         "type": "tabs",
         "children": [
           {
-            "id": "a39a728ef3ac4d20",
+            "id": "fb2b993eb234babf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hacking-notes-2025/PicoCTF/General Skills 2/20_First Find.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20_First Find"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -168,42 +164,48 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a39a728ef3ac4d20",
+  "active": "3b5df15d93117692",
   "lastOpenFiles": [
-    "Hacking-notes-2025/PicoCTF/General Skills 2/19_Big zip.md",
-    "Hacking-notes-2025/PicoCTF/General Skills 2/18_repetitions.md",
+    "04-repositorio-documenta.pdf",
+    "Hacking-notes-2025/PicoCTF/picoCTF Web 1/01_Insp3ct0r.md",
+    "Hacking-notes-2025/PicoCTF/picoCTF Web 1/Pasted image 20250324122444.png",
+    "Hacking-notes-2025/PicoCTF/picoCTF Web 1/02_where are the robots.md",
+    "Hacking-notes-2025/PicoCTF/picoCTF Web 1/03_logon.md",
+    "Hacking-notes-2025/PicoCTF/picoCTF Web 1/04_dont-use-client-side.md",
+    "Hacking-notes-2025/PicoCTF/picoCTF Web 1/05_picobrowser.md",
+    "Hacking-notes-2025/PicoCTF/picoCTF Web 1/Pasted image 20250324132444.png",
+    "Hacking-notes-2025/PicoCTF/picoCTF Web 1/06_Client-side-again.md",
+    "Hacking-notes-2025/PicoCTF/picoCTF Web 1/Pasted image 20250324210213.png",
+    "Hacking-notes-2025/PicoCTF/picoCTF Web 1/Pasted image 20250324210128.png",
+    "Hacking-notes-2025/PicoCTF/picoCTF Web 1",
+    "Hacking-notes-2025/PicoCTF/General Skills 3/22_runme.py.md",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/02_chrono.md",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/01_permissions.md",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/03_special.md",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/04_Commitment Issues.md",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/05_time machine.md",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/06_blame game.md",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/07_collaborative development.md",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/08_binary search.md",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/10_ASCII Numbers.md",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/09_binhexa.md",
     "Hacking-notes-2025/PicoCTF/General Skills 2/17_Magikarp Ground Mission.md",
     "Hacking-notes-2025/PicoCTF/General Skills 2/16_Tab, Tab, Attack.md",
-    "Hacking-notes-2025/PicoCTF/General Skills 2/15_useless.md",
-    "Hacking-notes-2025/PicoCTF/General Skills 2/14_Static ain't always noise.md",
     "Hacking-notes-2025/PicoCTF/General Skills 2/11_Based.md",
     "Hacking-notes-2025/PicoCTF/General Skills 2/13_Wave a flag.md",
-    "Hacking-notes-2025/PicoCTF/General Skills 2/12_strings it.md",
-    "Hacking-notes-2025/PicoCTF/General Skills 2/Pasted image 20250215203934.png",
-    "Hacking-notes-2025/PicoCTF/General Skills 2/Pasted image 20250215204857.png",
-    "Hacking-notes-2025/PicoCTF/General Skills 2/Pasted image 20250216192932.png",
-    "Hacking-notes-2025/PicoCTF/General Skills 2/Pasted image 20250216193109.png",
-    "Hacking-notes-2025/PicoCTF/General Skills 2/Pasted image 20250216200342.png",
-    "Hacking-notes-2025/PicoCTF/General Skills 2/Pasted image 20250217113954.png",
-    "Hacking-notes-2025/PicoCTF/General Skills 2/Pasted image 20250217125643.png",
-    "Hacking-notes-2025/PicoCTF/General Skills 2/Pasted image 20250217125725.png",
-    "Hacking-notes-2025/PicoCTF/General Skills 2/20_First Find.md",
-    "Hacking-notes-2025/PicoCTF/General Skills 2/Pasted image 20250217132525.png",
-    "Hacking-notes-2025/PicoCTF/General Skills 1/03_Warmed Up.md",
-    "Hacking-notes-2025/PicoCTF/General Skills 1/04_Bases.md",
-    "README.md",
-    "Hacking-notes-2025/README.md",
-    "Pasted image 20250216195942.png",
-    "Hacking-notes-2025/PicoCTF/General Skills 1/02_2Warm.md",
-    "Hacking-notes-2025/PicoCTF/General Skills 1/06_Obedient Cat.md",
-    "Hacking-notes-2025/PicoCTF/General Skills 1/09_Glitch Cat.md",
-    "Hacking-notes-2025/PicoCTF/General Skills 2",
-    "General Skills 2",
-    "Hacking-notes-2025/PicoCTF/General Skills 1/01_Lets Warm Up.md",
-    "Hacking-notes-2025/PicoCTF/General Skills 1/10_Nice netcat....md",
-    "Hacking-notes-2025/PicoCTF/General Skills 1/05_First Grep.md",
     "Hacking-notes-2025/PicoCTF/General Skills 1/08_plumbing.md",
     "Hacking-notes-2025/PicoCTF/General Skills 1/07_what's a net cat.md",
-    "Hacking-notes-2025/Bienvenido.md"
+    "Hacking-notes-2025/PicoCTF/General Skills 1/06_Obedient Cat.md",
+    "Hacking-notes-2025/PicoCTF/General Skills 1/02_2Warm.md",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/Pasted image 20250220235047.png",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/Pasted image 20250220224810.png",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/Pasted image 20250220224735.png",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/Pasted image 20250220224706.png",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/Pasted image 20250220222057.png",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills/Pasted image 20250220222023.png",
+    "Hacking-notes-2025/PicoCTF/Tarea 1 - General Skills",
+    "Hacking-notes-2025/PicoCTF/General Skills 3",
+    "Hacking-notes-2025/PicoCTF/General Skills 2",
+    "General Skills 2"
   ]
 }
