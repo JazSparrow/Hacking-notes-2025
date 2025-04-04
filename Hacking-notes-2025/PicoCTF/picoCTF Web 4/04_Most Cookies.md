@@ -16,7 +16,7 @@ Entramos al sitio web proporcionado, e ingresamos **snickerdoodle** al ver que n
 **sudo apt install pipx (si no funciona este comando se puede utilizar el siguiente:)
 sudo apt install python3.8-venv
 pipx ensurepath
-pipx install flask-unsing
+pipx install flask-unsing**
 
 **Nota importante: En algunos casos los comandos pueden variar, entonces es ver cuales comandos sirven en cada terminal.**
 
