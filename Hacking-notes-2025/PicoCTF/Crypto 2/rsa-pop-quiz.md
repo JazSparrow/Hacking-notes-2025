@@ -208,10 +208,10 @@ Enseguida abrimos otra terminal de ubuntu y escribimos nuevamente **python3** y 
 Para el ejercicio 6 no se pudo resolver con el formulario por lo tanto es un N en automático.
 
 Y para sacar nuestra flag, utilizamos los siguientes comandos dentro de la terminal de **python3** y nos mostrara un mensaje, enseguida importamos una nueva librería y aplicamos un **long_to_bytes**y con esto nos mostrará nuestro respectivo resultado.
-+ `m = pow(c,d,n)
-* `m
-* `from Crypto.Util.number import long_to_bytes
-* `long_to_bytes(m)
++ `m = pow(c,d,n)`
+* `m`
+* `from Crypto.Util.number import long_to_bytes`
+* `long_to_bytes(m)`
 
 ## Segunda Parte Terminal de Pyhton3
 
